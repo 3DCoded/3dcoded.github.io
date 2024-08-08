@@ -1,0 +1,57 @@
+site_name: 3DCoded
+site_url: https://3dcoded.github.io/
+repo_url: https://github.com/3dcoded/3dcoded.github.io
+plugins:
+  - search
+  - autolinks 
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+theme:
+  features:
+      - navigation.indexes
+      - navigation.expand
+      - navigation.instant
+      - navigation.instant.prefetch
+      - search.suggest
+      - search.highlight
+      - search.share
+      - content.code.copy
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: green
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+nav:
+  - Home: index.md
+  - printer.md
