@@ -28,6 +28,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 theme:
+  logo: assets/logo.png
   features:
       - navigation.indexes
       - navigation.expand
