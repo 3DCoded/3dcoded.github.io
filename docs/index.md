@@ -10,7 +10,7 @@ I am a 3D printing enthusiast and got my Prusa MK3S+ in August of 2022. [Modific
 
 <div class="grid cards" markdown>
 
--   3MS __Modular Multimaterial System for Klipper 3D printers__
+-   ![](3ms.png) __3MS: Modular Multimaterial System for Klipper 3D printers__
 
     ---
 
@@ -18,7 +18,7 @@ I am a 3D printing enthusiast and got my Prusa MK3S+ in August of 2022. [Modific
 
     [:octicons-arrow-right-24: Get Started](https://3dcoded.github.io/3MS)
 
-- DynamicMacros __Never restart Klipper again for your simple macros__
+- ![](dynamicmacros.png) __DynamicMacros: Never restart Klipper again for your simple macros__
 
     ---
     
@@ -26,7 +26,7 @@ I am a 3D printing enthusiast and got my Prusa MK3S+ in August of 2022. [Modific
 
     [:octicons-arrow-right-24: Get Started](https://3dcoded.github.io/DynamicMacros)
 
-- KlipperMaintenance __Keep your 3D printer running smoothly__
+- ![](klippermaintenance.png) __KlipperMaintenance: Keep your 3D printer running smoothly__
 
     ---
 
