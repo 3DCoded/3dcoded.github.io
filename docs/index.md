@@ -34,10 +34,4 @@ I am a 3D printing enthusiast and got my Prusa MK3S+ in August of 2022. [Modific
 
     [:octicons-arrow-right-24: Get Started](https://3dcoded.github.io/KlipperMaintenance)
 
-- :octicons-calendar-24: __Coming soon: KlipperCrash__
-
-    ---
-
-    Detect and resolve layer shifts **automatically**. Save hours of print time, and kilograms of filament!
-
 </div>
