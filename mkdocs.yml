@@ -3,7 +3,8 @@ site_url: https://3dcoded.github.io/
 repo_url: https://github.com/3dcoded/3dcoded.github.io
 plugins:
   - search
-  - autolinks 
+  - autolinks
+  - blog
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
@@ -56,3 +57,4 @@ theme:
 nav:
   - Home: index.md
   - printer.md
+  - Guides: blog/index.md
